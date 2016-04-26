@@ -1,0 +1,24 @@
+<!--pullout-->
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" />
+
+<blockquote style="width:250px;
+font-family: helvetica, sans-serif;
+font-size: 18px;
+font-style:italic;
+font-weight:500;
+color:#a6a6a6;
+border-top:2px solid #ccc;
+border-bottom:2px solid #ccc;
+border-left:none !important;
+border-right:none;
+padding: 15px 5px;
+margin:25px 0px 25px 25px;
+float:right;
+line-height:24px;">
+<i class="fa fa-quote-left" style="color:#ccc; font-size:28px;" aria-hidden="true"></i>
+
+Quote text goes here.
+
+<i class="fa fa-quote-right" style="color:#ccc; font-size:28px; position:absolute;"  aria-hidden="true"></i>
+</blockquote>
